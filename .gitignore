@@ -1,3 +1,6 @@
+# Others
+build/
+# End
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,react,yarn,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,react,yarn,macos
